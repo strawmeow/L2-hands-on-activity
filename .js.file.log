@@ -1,8 +1,4 @@
- Hello, World!
- Welcome, Student
-34
-34
-function addNumbers(a, b) {
+ function addNumbers(a, b) {
     return a + b;
 }
 
@@ -15,5 +11,3 @@ let sum = addNumbers(num1, num2);
 
 // Display the result in an alert
 alert("The sum is: " + sum);
-
-undefined

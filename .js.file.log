@@ -1,0 +1,19 @@
+ Hello, World!
+ Welcome, Student
+34
+34
+function addNumbers(a, b) {
+    return a + b;
+}
+
+// Ask for user input
+let num1 = parseFloat(prompt("Enter the first number:"));
+let num2 = parseFloat(prompt("Enter the second number:"));
+
+// Calculate the sum
+let sum = addNumbers(num1, num2);
+
+// Display the result in an alert
+alert("The sum is: " + sum);
+
+undefined
